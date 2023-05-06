@@ -1,3 +1,4 @@
 [submodule "IRTestbed"]
 	path = IRTestbed
 	url = git@github.com:gwangmu/IRTestbed
+	branch = master
